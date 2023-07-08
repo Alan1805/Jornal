@@ -1,0 +1,84 @@
+.Título{
+    background-color: red;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin: -8px;    
+    transition-timing-function: ease;
+    transition-duration: 1s;
+}
+.Título:hover{
+    background-color: rgb(145, 10, 10);
+
+    transform: translateY(10px);
+    border-radius: 20%;
+}
+ul{
+    text-align: center;
+    margin-left: -40px;
+}
+#div1{
+    color: red;
+}
+#div2{
+    color: green;
+}
+#Notícia{
+    border: red 2px solid;
+    font-size: 40px;
+    text-align: center;
+    color: red;
+}
+#Notícia1{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+#Notícia2{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+#Esportes{
+    border: green 2px solid;
+    font-size: 40px;
+    color: green;
+    text-align: center;
+}
+#Esportes1{
+    font-size: 30px;
+    text-align: center;
+    color: green;
+}
+#Esportes2{
+    font-size: 30px;
+    text-align: center;
+    color: green;
+}
+a{
+    color: green;
+}
+a:hover{
+    color: greenyellow;
+}
+a:link{
+    color: green;
+}
+a:visited{
+    color: green;
+}
+#ge{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+#paralisação{
+    height: 350px;
+}
+footer{   
+    text-align: center;
+}
